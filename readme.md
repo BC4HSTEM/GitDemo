@@ -11,3 +11,6 @@ Alex Bostic - Team Leader 3
 
 Line 11 text added to test conflict.
 Creating a conflict on line 11 to test SourceTree merge
+
+# How to Authenticate in SourceTree
+* Testing report url format https://<personal-access-token>@github.com/<my-repo-url>
