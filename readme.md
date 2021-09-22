@@ -12,9 +12,11 @@ Alex Bostic - Team Leader 3
 Line 11 text added to test conflict.
 Creating a conflict on line 11 to test SourceTree merge
 
-## How to Use Git
-[GitHub For FTC](https://docs.google.com/presentation/d/e/2PACX-1vRdxxV03USX-ZiNBOIYYMys1KKsUD1KhWgEYJCSp-LtuTpbSeG_JwL-k_wUhqQ8J_ET2D55n5unupJv/pub?start=false&loop=false&delayms=60000)
+## How to Use Git and GitHub
+View the slideshow [GitHub For FTC](https://docs.google.com/presentation/d/e/2PACX-1vRdxxV03USX-ZiNBOIYYMys1KKsUD1KhWgEYJCSp-LtuTpbSeG_JwL-k_wUhqQ8J_ET2D55n5unupJv/pub?start=false&loop=false&delayms=60000)
+to learn how to use git.
 
 ## How to Authenticate in SourceTree
-
-* Repo URL format must by in `https://<personal-access-token>@github.com/<my-repo-url>`
+* Add your GitHub account with Basic authentication and use your PAT as your password
+* Go to Clone and select the repo you want to work on.
+* Update the clone URL format to be https://<personal-access-token>@github.com/<my-repo-url>
