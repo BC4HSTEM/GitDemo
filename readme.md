@@ -10,6 +10,7 @@ Alex Bostic - Team Leader 3
 * Alex Bostic - test access keys
 * Lydia Dugger - test access key, desktop PC
 * Sydney Bostic - test PAT from laptop
+* Sydney Bostic - testing PAT after restarting SourceTree to check for cACHE issues
 
 
 Line 11 text added to test conflict.
