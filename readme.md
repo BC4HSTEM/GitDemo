@@ -1,5 +1,7 @@
 
-# FTC14169 Git Demo
+
+#FTC14169 Git Demo
+Colby Programmer
 Alex Bostic - Team Leader 3
 
 
@@ -21,3 +23,4 @@ to learn how to use git.
 * Add your GitHub account with Basic authentication and use your PAT as your password
 * Go to Clone and select the repo you want to work on.
 * Update the clone URL format to be https://<personal-access-token>@github.com/<my-repo-url>
+>>>>>>> .merge_file_a14376
