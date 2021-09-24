@@ -1,7 +1,7 @@
 
 
 #FTC14169 Git Demo
-Colby Prpogrammer
+Colby Programmer
 Alex Bostic - Team Leader 3
 
 
