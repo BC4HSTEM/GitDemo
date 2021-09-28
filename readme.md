@@ -1,8 +1,8 @@
 
 
 #FTC14169 Git Demo
-Emma Engle- Social media/ team planner\n
-Colby Programmer\n
+Emma Engle- Social media/ team planner
+Colby Programmer
 Alex Bostic - Team Leader 3
 
 
